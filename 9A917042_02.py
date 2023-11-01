@@ -12,7 +12,7 @@ sum = round(c + m + i, 2)
 a = round(sum / 3, 2)
 print("-" * 30)
 
-print(f"{n}({id})同學您好:\n以下是您的各科成績與分數評定\n\n")
+print(f"{n}({id})同學您好:\n以下是您的各科成績與分數評定\n")
 print(f"國文:{c} / 數學:{m} / 電腦:{i}")
 print(f"總分:{sum}  / 平均:{a}")
 
